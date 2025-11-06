@@ -1,10 +1,3 @@
-Got it! Here's a clean, ready-to-copy-and-paste basic HTML website code:
-
-
----
-
-✅ Copy-and-P
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -88,7 +81,4 @@ Got it! Here's a clean, ready-to-copy-and-paste basic HTML website code:
   </footer>
 
 </body>
-</html>
-
-
----
+</html>
