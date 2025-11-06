@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Website</EKA'S KITCHEN>
+  <title>EKA'S KITCHEN</title>
   <style>
     body {
       margin: 0;
@@ -10,7 +10,7 @@
 
     header {
       background-color: #2c3e50;
-      color: ORANGE,GREEN;
+      color: orange;
       padding: 20px;
       text-align: center;
     }
@@ -52,7 +52,7 @@
 <body>
 
   <header>
-    <h1>Welcome to My Website</hello>
+    <h1>Welcome to EKA'S KITCHEN</h1>
   </header>
 
   <nav>
@@ -77,8 +77,8 @@
   </section>
 
   <footer>
-    &copy; 2025 <EKA'S KITCHEN>
+    &copy; 2025 EKA'S KITCHEN
   </footer>
 
 </body>
-</html>
+</html>
